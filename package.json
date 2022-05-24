@@ -1,5 +1,5 @@
 {
-  "name": "project-pulse",
+  "name": "portfolio",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luchjr/project-pulse.git"
+    "url": "git+https://github.com/luchjr/portfolio.git"
   },
   "author": "luch",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luchjr/project-pulse/issues"
+    "url": "https://github.com/luchjr/portfolio/issues"
   },
-  "homepage": "https://github.com/luchjr/project-pulse#readme",
+  "homepage": "https://github.com/luchjr/portfolio#readme",
   "devDependencies": {
     "animate.css": "^4.1.1",
     "browser-sync": "^2.27.10",
