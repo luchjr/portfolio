@@ -7,7 +7,7 @@
         grid-template-columns: repeat(2, 355px);
         grid-template-rows: repeat(3, 45px);
         justify-content: space-between;
-        row-gap: 15px;
+        gap: 15px;
     }
     &__item {
         display: grid;

@@ -8,11 +8,9 @@
         gap: 13px;
     }
     &__item {
-        display: grid;
         padding: 30px 30px;
         border: solid 1px #000;
         &-icon {
-            display: grid;
             height: 65px;
             align-items: center;
         }
@@ -31,13 +29,14 @@
 .skills-percentage {
     margin-top: 120px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 350px);
     column-gap: 45px;
     row-gap: 30px;
     &__head {
         display: grid;
         justify-content: center;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: auto 35px;
+        justify-content: space-between;
     }
 
     &__level {

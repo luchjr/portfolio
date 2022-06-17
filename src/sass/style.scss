@@ -15,6 +15,7 @@
 @import 'blocks/portfolio';
 @import 'blocks/pricelist';
 @import 'blocks/contacts';
+@import 'blocks/media'; //чтобы медиа правила работали их надо подключать последними 
 
 * {
     font-family: 'Poppins', sans-serif;
